@@ -14,4 +14,4 @@ Slides: https://docs.google.com/presentation/d/1tevmKtKApSzrW5H_yRdSpqXWla-CkME8
 
 # Hands-on workshop
 
-Click the following link to open the notebooks in your JupyterHub environment: https://esdis.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnasa-impact%2Fgrss-workshop-india-2024&urlpath=lab%2Ftree%2Fgrss-workshop-india-2024%2F&branch=main
+Click the following link to open the notebooks in your JupyterHub environment: https://tinyurl.com/grss-india-2024
